@@ -1,6 +1,5 @@
-# DES424_6522781762
 # testgit
-This is a test program for DES424 (your student ID).
+This is a test program for DES424 (6522781762).
 ### Table of contents
 * [Required Software](#required-software)
 * [Installation](#installation)
